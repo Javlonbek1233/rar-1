@@ -1,0 +1,6 @@
+{
+  "name": "WorldExplorer",
+  "description": "Dunyo davlatlari haqida batafsil ma'lumotlar platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
